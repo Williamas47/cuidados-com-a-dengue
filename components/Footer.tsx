@@ -24,6 +24,7 @@ export default function Footer() {
                 { label: "Ministério da Saúde", href: "https://www.gov.br/saude" },
                 { label: "OMS — Organização Mundial da Saúde", href: "https://www.who.int" },
                 { label: "Fiocruz", href: "https://www.fiocruz.br" },
+                { label: "Prefeitura de Bauru — Combate à Dengue", href: "https://www2.bauru.sp.gov.br/saude/combate_dengue.aspx" },
               ].map((l) => (
                 <li key={l.label}>
                   <a
