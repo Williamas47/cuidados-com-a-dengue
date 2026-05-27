@@ -16,6 +16,7 @@ export default function Navbar() {
     { href: "#historia", label: "História" },
     { href: "#transmissao", label: "Transmissão" },
     { href: "#prevencao", label: "Prevenção" },
+    { href: "#galeria", label: "Galeria" },
   ];
 
   return (
