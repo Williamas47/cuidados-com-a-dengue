@@ -11,7 +11,7 @@ const fotos: Foto[] = [
   { src: '/galeria/foto2.jpg', legenda: 'Uni9 Contra a dengue - Foto 2' },
   { src: '/galeria/foto3.jpg', legenda: 'Uni9 Contra a dengue - Foto 3' },
   {
-    src: '/galeria/foto4.jpg',
+    src: '/galeria/foto4.jpeg',
     legenda: 'Trabalho na comunidade - TXI A - Bauru - SP',
   },
 ];
