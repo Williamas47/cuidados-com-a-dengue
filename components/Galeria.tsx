@@ -7,9 +7,13 @@ type Foto = { src: string; legenda?: string };
 
 const fotos: Foto[] = [
   // Adicione suas fotos na pasta public/galeria/ e liste aqui:
-  { src: '/galeria/foto1.jpg', legenda: 'Reunião Uni9 Foto 1' },
-  { src: '/galeria/foto2.jpg', legenda: 'Reunião Uni9 Foto 2' },
-  { src: '/galeria/foto3.jpg', legenda: 'Reunião Uni9 Foto 3' },
+  { src: '/galeria/foto1.jpg', legenda: 'Uni9 Contra a dengue - Foto 1' },
+  { src: '/galeria/foto2.jpg', legenda: 'Uni9 Contra a dengue - Foto 2' },
+  { src: '/galeria/foto3.jpg', legenda: 'Uni9 Contra a dengue - Foto 3' },
+  {
+    src: '/galeria/foto4.jpg',
+    legenda: 'Trabalho na comunidade - TXI A - Bauru - SP',
+  },
 ];
 
 export default function Galeria() {
